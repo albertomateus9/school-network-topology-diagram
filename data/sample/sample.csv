@@ -1,0 +1,6 @@
+device,role,peer,link_type
+CoreSwitch,switch,Router,ethernet
+CoreSwitch,switch,LabSwitchA,fiber
+CoreSwitch,switch,LabSwitchB,fiber
+LabSwitchA,switch,WorkstationA,ethernet
+LabSwitchB,switch,AccessPointA,ethernet
